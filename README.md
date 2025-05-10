@@ -1,12 +1,12 @@
-# Noa3 Repository
+# NOA3 REPOSITORY
 
-Welcome to the Noa3 repository! 
+WELCOME TO THE NOA3 REPOSITORY! 
 
-## Today's Programming Joke
+## TODAY'S PROGRAMMING JOKE
 
-Why do programmers prefer dark mode?
+WHY DO PROGRAMMERS PREFER DARK MODE?
 
-Because light attracts bugs! 🐛
+BECAUSE LIGHT ATTRACTS BUGS! 🐛
 
 ---
-Feel free to contribute your own programming jokes!
+FEEL FREE TO CONTRIBUTE YOUR OWN PROGRAMMING JOKES!
